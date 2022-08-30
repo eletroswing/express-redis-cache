@@ -1,0 +1,12 @@
+{
+  "name": "redis-express-cache",
+  "version": "1.0.0",
+  "description": "Cache your responses with redis",
+  "repository": "eletroswing/express-redis-cache",
+  "author": "eletroswing",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.3.0",
+    "winston": "^3.8.1"
+  }
+}
